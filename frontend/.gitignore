@@ -25,3 +25,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#supabase setup files
+storage-setup.sql
+supabase-setup.sql
+
+ijcbeeo.txt
+
+auth_setup.md
